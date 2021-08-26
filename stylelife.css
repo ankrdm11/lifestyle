@@ -1,0 +1,53 @@
+nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a{
+    display: block;
+    color: #666;
+    padding:14px 16px;
+    text-decoration: none;
+    float:right;
+}
+
+.logo{
+    float: left;
+ height: 50px;
+ padding: 15px;
+ font-size: 20px;
+ font-weight: bold;
+
+}
+
+#header{
+ background-color:#000;
+ color:#fff;
+ border-color: #080808;
+ min-height: 50px;
+ border: 1px solid transparent;
+ width:80%;
+ margin:auto;
+}
+#background-image{
+ padding-bottom: 50px;
+ margin-bottom: 20px;
+ text-align: center;
+ color: #f8f8f8;
+ background: url("img/lifestylewall.jpg")no-repeat center;
+ background-size: cover;
+  padding-top: 12%;
+ width:100%;
+ margin:auto;
+
+}
+    
+#content{
+ position: relative;
+ padding-top: 6%;
+ padding-bottom: 6%;
+ overflow:hidden;
+ margin-bottom: 12%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px;
+}
